@@ -1,10 +1,10 @@
-package com.aifec.netty.client;
+package com.aifec.netty.bio.client;
 
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.net.Socket;
 
-import com.aifec.netty.server.CloseUtil;
+import com.aifec.netty.bio.server.CloseUtil;
 
 public class Receive implements Runnable{
 	//输入流

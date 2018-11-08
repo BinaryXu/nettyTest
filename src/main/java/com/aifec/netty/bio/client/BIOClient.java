@@ -1,4 +1,4 @@
-package com.aifec.netty.client;
+package com.aifec.netty.bio.client;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

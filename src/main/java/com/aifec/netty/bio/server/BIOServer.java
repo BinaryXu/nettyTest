@@ -1,4 +1,4 @@
-package com.aifec.netty.server;
+package com.aifec.netty.bio.server;
 
 import java.io.IOException;
 import java.net.ServerSocket;

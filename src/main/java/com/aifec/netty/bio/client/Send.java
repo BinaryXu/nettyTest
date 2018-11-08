@@ -1,4 +1,4 @@
-package com.aifec.netty.client;
+package com.aifec.netty.bio.client;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.Socket;
 
-import com.aifec.netty.server.CloseUtil;
+import com.aifec.netty.bio.server.CloseUtil;
 
 public class Send implements Runnable{
 	//控制台输入流
